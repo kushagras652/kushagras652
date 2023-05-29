@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hello👋, I'm Kushagra Sharma</h1>
-<h3 align="center">Trying to be Full Stack Android Developer</h3>
+<h3 align="left">Here is what I am working on!!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagras652&label=Profile%20views&color=0e75b6&style=flat" alt="kushagras652" /> </p>
 
