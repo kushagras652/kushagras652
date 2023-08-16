@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **kushagras652@gmail.com**
 
-- ⚡ Fun fact **I love to just lie in my bed and relax...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
